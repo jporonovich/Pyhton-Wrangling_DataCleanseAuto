@@ -18,7 +18,7 @@ By: Jordan
 
 *<sup>1</sup>Source: Statistics Canada*
 
-## Snippet from 'CleanCSVFiles'
+### Snippet from 'CleanCSVFiles'
 *full file available in repository*
 <details>
   <Summary> Click here </Summary>
@@ -58,3 +58,5 @@ By: Jordan
 ```
 </details>
 
+
+[image](https://raw.githubusercontent.com/jporonovich/Pyhton-Wrangling_DataCleanseAuto/main/Before%20%26%20After.PNG)
