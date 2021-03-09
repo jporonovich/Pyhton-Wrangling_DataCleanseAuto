@@ -19,12 +19,13 @@ By: Jordan
 *<sup>1</sup>Source: Statistics Canada*
 
 ## Snippet from 'CleanCSVFiles'
+*full file available in repository*
 <details>
   <Summary> Click here </Summary>
 
 ``` python 
 
-    #This block of code  takes dat from StatsCan isolates the data table, 
+    #This block of code  takes data from StatsCan isolates the tables, 
     #removes "clutter" and transposes the table from horizontal to vertical
 
     #Defining headers to pre-exisiting row and resetting header.   
