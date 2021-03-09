@@ -18,7 +18,7 @@ By: Jordan
 
 *<sup>1</sup>Source: Statistics Canada*
 
-Snippet from 'CleanCSVFiles'
+## Snippet from 'CleanCSVFiles'
 <details>
   <Summary> Click here </Summary>
 
