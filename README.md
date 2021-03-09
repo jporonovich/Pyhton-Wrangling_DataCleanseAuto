@@ -22,7 +22,7 @@ Snippet from 'CleanCSVFiles'
 <details>
   <Summary> Click here </Summary>
 
-```
+``` python 
 
     #This block of code  takes dat from StatsCan isolates the data table, 
     #removes "clutter" and transposes the table from horizontal to vertical
