@@ -1,5 +1,4 @@
-# Project Summary 
-## Automate Data Cleansing & Consolidate files  **'Python'**
+# Automate Data Cleansing & Consolidate files  **'Python'**
 Last updated: March, 2021 <br />
 By: Jordan 
 
