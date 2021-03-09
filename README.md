@@ -18,9 +18,6 @@ By: Jordan
 * [x] Merge files and create new data 
   * [x] AlcoholSales.CSV
   * [x] CanadaPopulation.csv
-* [ ] Pull CSV From Source<sup>1</sup> (TBD)
-
-*<sup>1</sup>Source: Statistics Canada*
 
 ### Snippet from 'CleanCSVFiles'
 *full file available in repository*
