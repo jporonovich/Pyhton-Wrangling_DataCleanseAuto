@@ -27,7 +27,7 @@ By: Jordan
 <details>
   <Summary> Click here </Summary>
 
-``` python 
+``` python2 
 
     #This block of code  takes data from StatsCan isolates the tables, 
     #removes "clutter" and transposes the table from horizontal to vertical
